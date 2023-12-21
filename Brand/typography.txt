@@ -1,0 +1,21 @@
+Primary Font:
+    Font: Montserrat
+    Weights:
+        Bold: For main headings and titles.
+        Medium: For subheadings and section titles.
+        Regular: For general body text and paragraphs.
+
+Accent Font:
+    Font: Montserrat
+    Weight: Semi-Bold
+    Usage: For emphasizing key information, buttons, and call-to-action elements.
+
+Code Font:
+    Font: Inconsolata
+    Weight: Regular
+    Usage: For displaying code snippets or technical information.
+
+Usage Guidelines:
+    * Maintain a consistent font size hierarchy for simplicity and readability.
+    * Utilize different font weights within the same typeface to create hierarchy without introducing new fonts.
+    * Ensure suitable contrast between text and background colors;
